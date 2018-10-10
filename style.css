@@ -28,11 +28,11 @@ h1 {
     grid-row-start: 1;
     grid-column-start: 1;
     grid-column-end: 3;
-    color: rgb(104, 85, 57);
+    color: rgb(255, 255, 255);
     font-size: 48pt;
     font-family: 'Playfair Display', sans-serif;
   
-    background-image: linear-gradient(120deg, rgb(30,77,53) 0%, rgb(245, 233, 149) 50%, rgb(28, 33, 104) 100%);
+    background-image: linear-gradient(120deg, rgb(124, 69, 27) 0%, rgb(124, 69, 27) 50%, rgb(51, 24, 4) 100%);
     background-repeat: no-repeat;
     background-size: 100% 0.2em;
     background-position: 0 100%;
